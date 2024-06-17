@@ -1,0 +1,86 @@
+<resources>
+    <string name="app_name">Sobat Tani</string>
+    <string name="title_activity_bottom_nav">Aktivitas Navigasi Bawah</string>
+    <string name="title_home">Dashboard</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Pemberitahuan</string>
+    <string name="miniklopedia">Miniklopedia</string>
+    <string name="bookmark">Bookmark</string>
+    <string name="profile">Profile</string>
+    <string name="camera">Kamera</string>
+
+    <string name="nama_tanaman">Nama Tanaman</string>
+    <string name="deskripsi_1">Suhu optimal adalah 25-35 derajat Celcius.</string>
+    <string name="deskripsi_2">Tanah dengan pH antara 6 hingga 7,5 dianggap ideal.</string>
+    <string name="deskripsi_3">Budidaya padi memerlukan perhatian yang cermat mulai dari tahap awal hingga panen. Pertama, petani menyiapkan lahan dengan membersihkannya dari gulma dan sampah organik. Selanjutnya tanah digarap dan diratakan. Memilih varietas padi yang sesuai dengan iklim dan kondisi tanah adalah langkah selanjutnya. Bibit padi kemudian ditanam dengan jarak tanam yang sesuai antar tanaman. Pada masa pertumbuhannya, tanaman padi memerlukan perawatan seperti penyiraman, pemupukan, dan perlindungan dari hama dan penyakit. Sistem irigasi yang baik juga penting karena padi memerlukan pasokan air yang cukup. Dengan perawatan yang baik diharapkan tanaman padi dapat tumbuh dengan baik dan menghasilkan hasil panen yang memuaskan.</string>
+
+    <string-array name="info_name">
+        <item>Tanaman Jagung</item>
+        <item>Tanaman Padi</item>
+        <item>Tanaman Singkong</item>
+    </string-array>
+
+    <integer-array name="info_img">
+        <item>@drawable/info_1</item>
+        <item>@drawable/info_2</item>
+        <item>@drawable/info_3</item>
+    </integer-array>
+    <integer-array name="info_img2">
+        <item>@drawable/info_11</item>
+        <item>@drawable/info_22</item>
+        <item>@drawable/info_33</item>
+    </integer-array>
+
+    <string-array name="info_desc_1">
+        <item>Suhu berkisar antara 20 hingga 30 derajat Celcius.</item>
+        <item>Suhu optimal adalah 25–35 derajat Celcius.</item>
+        <item>Suhu optimal adalah 25–35 derajat Celcius</item>
+    </string-array>
+    <string-array name="info_desc_2">
+        <item>Tanah dengan pH antara 6 hingga 7,5 dianggap ideal</item>
+        <item>Tanah dengan pH antara 6 hingga 7,5 dianggap ideal</item>
+        <item>Tanah dengan pH antara 6 hingga 7,5 dianggap ideal</item>
+    </string-array>
+    <string-array name="info_desc_3">
+        <item>Budidaya jagung memerlukan perhatian yang cermat mulai dari persiapan awal hingga panen akhir. Untuk memulainya, petani memulai proses dengan membersihkan lahan dari gulma dan bahan organik. Setelah itu, tanah digarap dan diratakan untuk menciptakan lingkungan tanam yang optimal. Langkah penting berikutnya adalah memilih varietas jagung yang sesuai dengan iklim dan kondisi tanah. Benih jagung kemudian ditanam dengan jarak waktu yang sesuai, memastikan jarak tanam yang cukup antar setiap tanaman untuk pertumbuhan optimal. Sepanjang fase pertumbuhan, tanaman jagung memerlukan perawatan yang cermat, termasuk penyiraman secara teratur, pemupukan tepat waktu, dan perlindungan yang cermat terhadap hama dan penyakit. Selain itu, sistem irigasi yang dirancang dengan baik juga sangat diperlukan, karena jagung akan tumbuh subur dengan akses yang konsisten terhadap air yang cukup. Melalui pemeliharaan yang rajin dan kepatuhan terhadap praktik terbaik, para petani bertujuan untuk membudidayakan tanaman jagung yang sehat dan menghasilkan panen yang memuaskan.</item>
+        <item>Budidaya padi memerlukan perhatian yang cermat mulai dari tahap awal hingga panen. Pertama, petani menyiapkan lahan dengan membersihkannya dari gulma dan sampah organik. Selanjutnya tanah digarap dan diratakan. Memilih varietas padi yang sesuai dengan iklim dan kondisi tanah adalah langkah selanjutnya. Bibit padi kemudian ditanam dengan jarak tanam yang sesuai antar masing-masing tanaman. Dalam masa pertumbuhannya, tanaman padi memerlukan perawatan seperti penyiraman, pemupukan, dan perlindungan dari hama dan penyakit. Sistem irigasi yang baik juga penting karena padi memerlukan pasokan air yang cukup. Dengan perawatan yang baik diharapkan tanaman padi dapat tumbuh dengan baik dan menghasilkan hasil panen yang memuaskan.</item>
+        <item>Singkong, juga dikenal sebagai ubi kayu atau yuca, adalah sayuran akar bertepung yang berasal dari Amerika Selatan tetapi banyak dibudidayakan di seluruh wilayah tropis di dunia. Dengan bagian luarnya yang kasar berwarna coklat dan dagingnya berwarna putih, singkong merupakan tanaman serbaguna yang menjadi makanan pokok jutaan orang. Ini dapat disiapkan dengan berbagai cara, termasuk merebus, menggoreng, atau memanggang, dan digunakan dalam hidangan gurih dan manis.   Singkong dihargai karena kemampuannya untuk tumbuh subur di kondisi tanah yang buruk dan tahan terhadap kekeringan, sehingga menjadikannya sumber makanan penting di daerah dengan lingkungan pertanian yang menantang. Selain itu, singkong merupakan sumber karbohidrat yang signifikan dalam banyak makanan dan menyediakan nutrisi penting seperti vitamin C, folat, dan serat makanan.</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Halo fragmen kosong</string>
+
+    <string name="email">Email</string>
+    <string name="email_format_validate">Format email tidak valid</string>
+    <string name="password">Password</string>
+    <string name="password_format_validate">Password tidak boleh kurang dari 8 karakter</string>
+
+    <string name="login">Masuk</string>
+    <string name="required_login">Lengkapi data dengan benar!</string>
+    <string name="title_login_page">Mari kita mulai memindai tanaman Anda!</string>
+    <string name="message_login_page">Silakan masukkan akun Anda!</string>
+
+    <string name="message_welcome_page"><b>Identifikasi dengan cepat</b> dan <b>atas hama</b> yang merusak taman Anda. Dapatkan solusi instan untuk tanaman yang lebih sehat.</string>
+    <string name="title_welcome_page">Selamat datang di Sobat Tani!</string>
+
+    <string name="signup">Daftar</string>
+    <string name="title_signup_page">Silakan lengkapi informasi profile anda!</string>
+    <string name="name">Nama</string>
+    <string name="name_format_validate">Nama tidak boleh kurang dari 8 karakter</string>
+    <string name="required_signup">Lengkapi data dengan benar!</string>
+
+    <string name="profile_update">Ubah Profile</string>
+    <string name="password_profile_update">*Kosongkan jika tidak ingin diubah</string>
+    <string name="logout">Logout</string>
+
+    <string name="empty_image_warning">Silakan masukkan berkas gambar terlebih dahulu.</string>
+    <string name="no_classification">Tidak ada klasifikasi yang ditemukan.</string>
+    <string name="image_classifier_failed">Pengklasifikasi gambar gagal diinisialisasi. Lihat log kesalahan untuk detailnya.</string>
+
+    <string name="camera_x">CameraX</string>
+    <string name="gallery">Galeri</string>
+    <string name="analyze">Menganalisa</string>
+    <string name="result">Hasil Analisa: \n%1$s </string>
+
+    <string name="loading">Memuat...</string>
+    <string name="data_not_found">Data tidak ditemukan</string>
+</resources>
