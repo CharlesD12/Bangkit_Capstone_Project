@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">Project Penelitian</string>
+    <string name="title_activity_bottom_nav">BottomNavActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="forum">Forum</string>
+    <string name="bookmark">Bookmark</string>
+    <string name="profile">Profile</string>
+    <string name="camera">camera</string>
+
+    <string-array name="info_name">
+        <item>Corn Plant</item>
+        <item>Rice Plant</item>
+        <item>Cassava Plant</item>
+    </string-array>
+
+    <integer-array name="info_img">
+        <item>@drawable/info_1</item>
+        <item>@drawable/info_2</item>
+        <item>@drawable/info_3</item>
+    </integer-array>
+    <integer-array name="info_img2">
+        <item>@drawable/info_11</item>
+        <item>@drawable/info_22</item>
+        <item>@drawable/info_33</item>
+    </integer-array>
+
+    <string-array name="info_desc_1">
+        <item>The temperature ranges between 20 to 30 degrees Celsius</item>
+        <item>The optimal temperature is 25–35 degrees Celsius</item>
+        <item>The optimal temperature is 25–35 degrees Celsius</item>
+    </string-array>
+    <string-array name="info_desc_2">
+        <item>Soil with a pH between 6 to 7.5 is considered ideal</item>
+        <item>Soil with a pH between 6 to 7.5 is considered ideal</item>
+        <item>Soil with a pH between 6 to 7.5 is considered ideal</item>
+    </string-array>
+    <string-array name="info_desc_3">
+        <item>Corn cultivation requires meticulous attention from the initial preparation to the eventual harvest. To begin, farmers initiate the process by clearing the land of weeds and organic matter. Following this, the soil is tilled and leveled to create an optimal planting environment. The next crucial step involves selecting corn varieties that are well-suited to the prevailing climate and soil conditions. Corn seeds are then planted at appropriate intervals, ensuring sufficient spacing between each plant for optimal growth.   Throughout the growth phase, corn plants necessitate diligent care, including regular watering, timely fertilization, and vigilant protection against pests and diseases. Additionally, a well-designed irrigation system is indispensable, as corn thrives with consistent access to adequate water. Through diligent maintenance and adherence to best practices, farmers aim to cultivate healthy corn crops that yield satisfactory harvests.</item>
+        <item>Rice cultivation requires careful attention from the initial stages to harvest. Firstly, farmers prepare the land by clearing it from weeds and organic debris. Subsequently, the soil is tilled and leveled. Selecting rice varieties suitable for the climate and soil conditions is the next step. Rice seeds are then planted with appropriate spacing between each plant.During the growth period, rice plants require care such as watering, fertilization, and protection from pests and diseases. A proper irrigation system is also essential as rice requires adequate water supply. With proper maintenance, it is hoped that rice plants will grow well and yield satisfactory harvests.</item>
+        <item>Cassava, also known as manioc or yuca, is a starchy root vegetable native to South America but widely cultivated throughout tropical regions of the world. With its rough brown exterior and white flesh, cassava is a versatile crop that serves as a staple food for millions of people. It can be prepared in various ways, including boiling, frying, or baking, and is used in both savory and sweet dishes.   Cassava is prized for its ability to thrive in poor soil conditions and withstand drought, making it a crucial food source in regions with challenging agricultural environments. Additionally, cassava is a significant source of carbohydrates in many diets and provides essential nutrients such as vitamin C, folate, and dietary fiber.</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="email">Email</string>
+    <string name="email_format_validate">Format email tidak valid</string>
+    <string name="password">Password</string>
+    <string name="password_format_validate">Password tidak boleh kurang dari 8 karakter</string>
+
+    <string name="login">Login</string>
+    <string name="required_login">Lengkapi data dengan benar</string>
+    <string name="title_login_page">Let\'s start scanning \nyour plants!</string>
+    <string name="message_login_page">Please insert your account</string>
+
+    <string name="message_welcome_page"><b>Quickly identify</b> and <b>tackle pests</b> ruining your garden. Get instant solutions for healthier plants</string>
+    <string name="title_welcome_page">Selamat datang di Dicoding Story!</string>
+
+    <string name="signup">Sign Up</string>
+    <string name="title_signup_page">Please complete your personal information</string>
+    <string name="name">Name</string>
+    <string name="name_format_validate">Nama tidak boleh kurang dari 8 karakter</string>
+    <string name="required_signup">Lengkapi data dengan benar</string>
+
+    <string name="profile_update">Ubah Profile</string>
+    <string name="password_profile_update">*Kosongkan jika tidak ingin diubah</string>
+    <string name="logout">Logout</string>
+
+</resources>
