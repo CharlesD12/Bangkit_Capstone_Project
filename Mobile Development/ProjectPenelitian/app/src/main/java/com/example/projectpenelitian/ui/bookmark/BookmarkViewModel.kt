@@ -19,8 +19,10 @@ class BookmarkViewModel : ViewModel() {
     fun setParameter(value: String) {
         parameter = value
 
-        getListBookmark(parameter)
+//        getListBookmark(parameter)
     }
+
+    var status = "true"
 
     private val _bookmark = MutableLiveData<BookmarkResponse>()
     val bookmark: LiveData<BookmarkResponse> = _bookmark
@@ -33,31 +35,33 @@ class BookmarkViewModel : ViewModel() {
 
     private val _snackbarText = MutableLiveData<Event<String>>()
 
-    private fun getListBookmark(token: String) {
-        _isLoading.value = true
-        val client = ApiConfig.getApiService().getBookmark("Bearer $token")
-        client.enqueue(object : Callback<BookmarkResponse> {
-            override fun onResponse(
-                call: Call<BookmarkResponse>,
-                response: Response<BookmarkResponse>
-            ) {
-                _isLoading.value = false
-                if (response.isSuccessful) {
-                    _bookmark.value = response.body()
-                    _listBookmark.value = response.body()?.data
-
-                } else {
-                    Log.e(TAG, "onFailure: ${response.message()}")
-                    _snackbarText.value = Event("Data gagal dimuat")
-                }
-            }
-            override fun onFailure(call: Call<BookmarkResponse>, t: Throwable) {
-                _isLoading.value = false
-                Log.e(TAG, "onFailure: ${t.message.toString()}")
-                _snackbarText.value = Event("Data gagal dimuat")
-            }
-        })
-    }
+//    private fun getListBookmark(token: String) {
+//        _isLoading.value = true
+//        val client = ApiConfig.getApiService().getBookmark("Bearer $token")
+//        client.enqueue(object : Callback<BookmarkResponse> {
+//            override fun onResponse(
+//                call: Call<BookmarkResponse>,
+//                response: Response<BookmarkResponse>
+//            ) {
+//                _isLoading.value = false
+//                if (response.isSuccessful) {
+//                    status = "true"
+//                    _bookmark.value = response.body()
+//                    _listBookmark.value = response.body()?.data
+//
+//                } else {
+//                    status = "false"
+//                    Log.e(TAG, "onFailure1: ${response.message()}")
+//                    _snackbarText.value = Event("Data gagal dimuat")
+//                }
+//            }
+//            override fun onFailure(call: Call<BookmarkResponse>, t: Throwable) {
+//                _isLoading.value = false
+//                Log.e(TAG, "onFailure2: ${t.message.toString()}")
+//                _snackbarText.value = Event("Data gagal dimuat")
+//            }
+//        })
+//    }
 
     companion object{
         private const val TAG = "BookmarkViewModel"

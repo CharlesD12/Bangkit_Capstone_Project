@@ -76,8 +76,12 @@ interface ApiService {
         @Header("Authorization") token: String,
     ): Call<MiniklopediaResponse>
 
+//    @GET("bookmark")
+//    fun getBookmark(
+//        @Header("Authorization") token: String,
+//    ): Call<BookmarkResponse>
     @GET("bookmark")
-    fun getBookmark(
+    suspend fun getBookmark(
         @Header("Authorization") token: String,
-    ): Call<BookmarkResponse>
+    ): BookmarkResponse
 }
