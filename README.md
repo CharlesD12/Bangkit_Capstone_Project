@@ -19,6 +19,17 @@ Indonesia, an agrarian country, faces challenges in raising farmers’ technolog
 |A009D4KY3936| Naufal Hammam Al Mubarok      | MD            |
 |A009D4KY3647| Rama Adi Satria               | MD            |
 
+# Machine Learning Documentation
+Link dataset :
+Rice Dataset : 
+https://www.kaggle.com/datasets/shayanriyaz/riceleafs
+
+Corn Dataset : 
+https://www.kaggle.com/datasets/smaranjitghose/corn-or-maize-leaf-disease-dataset
+
+Cassava Dataset :
+https://www.kaggle.com/datasets/charlesdometian/cassava-plant-diseases
+
 # Cloud Computing Documentation
 ![image](https://github.com/CharlesD12/Bangkit_Capstone_Project/assets/78160523/2d179cfb-9f3a-4f15-8e3f-aac6e8f94957)
 
