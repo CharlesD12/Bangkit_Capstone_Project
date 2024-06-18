@@ -31,6 +31,10 @@ https://www.kaggle.com/datasets/smaranjitghose/corn-or-maize-leaf-disease-datase
 Cassava Dataset :
 https://www.kaggle.com/datasets/charlesdometian/cassava-plant-diseases
 
+# Mobile Development Documentation
+
+Figma link : https://www.figma.com/proto/bpd7Tm21HTFmTJXUb48QRw/Untitled?node-id=47-338&t=llvfw7fH6cgZtPPM-1
+
 # Cloud Computing Documentation
 ![image](https://github.com/CharlesD12/Bangkit_Capstone_Project/assets/78160523/2d179cfb-9f3a-4f15-8e3f-aac6e8f94957)
 
