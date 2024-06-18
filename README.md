@@ -1,4 +1,4 @@
-Sobat Tani: Food crop health detection app
+<div class="title">Sobat Tani: Food crop health detection app</div>
 ![image](https://github.com/CharlesD12/Bangkit_Capstone_Project/assets/78160523/1d6a426c-7d54-4584-968c-ce140353cb12)
 
 About the project
