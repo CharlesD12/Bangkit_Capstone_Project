@@ -5,7 +5,7 @@
 </p>
 
 # Videos
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Ir9clz16Z5w?si=UvW0wXaGKytq2IER" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![Thumbnail](https://img.youtube.com/vi/Ir9clz16Z5w/0.jpg)](https://www.youtube.com/watch?v=Ir9clz16Z5w)
 
 # About
 Indonesia, an agrarian country, faces challenges in raising farmers’ technological awareness. To address this, an app has been developed to help farmers detect crop diseases, enabling early treatment and prevention of crop failure. This app serves as a proactive measure against potential future food crises. It represents a digital realization of an idea, aimed at promoting digitalization in Indonesia’s agricultural sector. This app is a tangible effort to help Indonesian farmers overcome current challenges, with the hope of mitigating the impact of agricultural issues and potential food crises.
