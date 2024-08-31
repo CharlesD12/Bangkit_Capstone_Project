@@ -9,6 +9,13 @@
 |:--:|
 | [Lihat video di YouTube](https://www.youtube.com/watch?v=Ir9clz16Z5w) |
 
+# Documents
+| Dokumen   | Link         |
+|-----------|--------------|
+| Project Plan | <a href="https://drive.google.com/file/d/1t4q70bgU-oKbYXZBIgS5qKdojpAvV_eL/view?usp=sharing">Project Plan - Sobat Tani</a>|
+| Project Brief | <a href="https://drive.google.com/file/d/16DoUC_eKb_02hhFGcFOcX8mVCyeYDTIN/view?usp=sharing">Project Brief - Sobat Tani</a> |
+| Power Point | <a href="https://drive.google.com/file/d/1B5eRUYevg_pRbr5eGFLB808Mm9r4G7Ba/view?usp=sharing">Power Point - Sobat Tani</a> |
+
 # About
 Indonesia, an agrarian country, faces challenges in raising farmers’ technological awareness. To address this, an app has been developed to help farmers detect crop diseases, enabling early treatment and prevention of crop failure. This app serves as a proactive measure against potential future food crises. It represents a digital realization of an idea, aimed at promoting digitalization in Indonesia’s agricultural sector. This app is a tangible effort to help Indonesian farmers overcome current challenges, with the hope of mitigating the impact of agricultural issues and potential food crises.
 
@@ -39,6 +46,7 @@ https://www.kaggle.com/datasets/charlesdometian/cassava-plant-diseases
 # Mobile Development Documentation
 
 Figma link : https://www.figma.com/proto/bpd7Tm21HTFmTJXUb48QRw/Untitled?node-id=47-338&t=llvfw7fH6cgZtPPM-1
+App link : https://drive.google.com/file/d/1s2GV9Vi34xOdcs8AImuGS9lV5e2jlXZT/view?usp=sharing
 
 # Cloud Computing Documentation
 ![image](https://github.com/CharlesD12/Bangkit_Capstone_Project/assets/78160523/2d179cfb-9f3a-4f15-8e3f-aac6e8f94957)
