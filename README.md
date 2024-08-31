@@ -46,6 +46,7 @@ https://www.kaggle.com/datasets/charlesdometian/cassava-plant-diseases
 # Mobile Development Documentation
 
 Figma link : https://www.figma.com/proto/bpd7Tm21HTFmTJXUb48QRw/Untitled?node-id=47-338&t=llvfw7fH6cgZtPPM-1
+
 App link : https://drive.google.com/file/d/1s2GV9Vi34xOdcs8AImuGS9lV5e2jlXZT/view?usp=sharing
 
 # Cloud Computing Documentation
