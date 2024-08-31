@@ -16,9 +16,6 @@
 | Project Brief | <a href="https://drive.google.com/file/d/16DoUC_eKb_02hhFGcFOcX8mVCyeYDTIN/view?usp=sharing">Project Brief - Sobat Tani</a> |
 | Power Point | <a href="https://drive.google.com/file/d/1B5eRUYevg_pRbr5eGFLB808Mm9r4G7Ba/view?usp=sharing">Power Point - Sobat Tani</a> |
 
-# About
-Indonesia, an agrarian country, faces challenges in raising farmers’ technological awareness. To address this, an app has been developed to help farmers detect crop diseases, enabling early treatment and prevention of crop failure. This app serves as a proactive measure against potential future food crises. It represents a digital realization of an idea, aimed at promoting digitalization in Indonesia’s agricultural sector. This app is a tangible effort to help Indonesian farmers overcome current challenges, with the hope of mitigating the impact of agricultural issues and potential food crises.
-
 ## Team Members
 
 | ID         | Name                          | Learning Path |
@@ -30,6 +27,9 @@ Indonesia, an agrarian country, faces challenges in raising farmers’ technolog
 |C189D4KX1281| Fanissa Azzahra               | CC            |
 |A009D4KY3936| Naufal Hammam Al Mubarok      | MD            |
 |A009D4KY3647| Rama Adi Satria               | MD            |
+
+# About
+Indonesia, an agrarian country, faces challenges in raising farmers’ technological awareness. To address this, an app has been developed to help farmers detect crop diseases, enabling early treatment and prevention of crop failure. This app serves as a proactive measure against potential future food crises. It represents a digital realization of an idea, aimed at promoting digitalization in Indonesia’s agricultural sector. This app is a tangible effort to help Indonesian farmers overcome current challenges, with the hope of mitigating the impact of agricultural issues and potential food crises.
 
 # Machine Learning Documentation
 Link dataset
