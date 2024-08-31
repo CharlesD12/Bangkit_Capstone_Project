@@ -32,7 +32,7 @@ Indonesia, an agrarian country, faces challenges in raising farmers’ technolog
 |A009D4KY3647| Rama Adi Satria               | MD            |
 
 # Machine Learning Documentation
-Link dataset :
+Link dataset
 
 Rice Dataset : 
 https://www.kaggle.com/datasets/shayanriyaz/riceleafs
